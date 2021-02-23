@@ -7,4 +7,4 @@
 
 ### PARA EXECUTAR
 
-- docker run --rm ppsousa63/codeeducation
+- docker run ppsousa63/codeeducation
